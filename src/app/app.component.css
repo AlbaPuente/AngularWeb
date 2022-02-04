@@ -1,7 +1,12 @@
  .pags{
+    background-color: #F68750 ;
     display: flex;
     justify-content: end;
-    padding: 15px;
-    margin: 20px;   
+    /* padding: 15px;
+    margin: 20px;    */
 } 
+.linkpags{
+    text-decoration: none;
+    
+}
 
